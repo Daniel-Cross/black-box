@@ -1,0 +1,11 @@
+.Navbar {
+    background-color: #282c34;
+    color: white;
+    display: flex;
+    flex-direction: row;
+}
+
+.nav-items {
+    display: flex;
+    flex-direction: row;
+}
